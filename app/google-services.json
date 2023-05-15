@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509891757275",
+    "project_id": "projeto-fire-base-a6cd6",
+    "storage_bucket": "projeto-fire-base-a6cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509891757275:android:13375ff1cd69dba704f8fe",
+        "android_client_info": {
+          "package_name": "com.everton.projetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509891757275-cbemprg7f38il2gf60mi1hgikm42nj9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccAaR9cvvB4YzWGoM1t93MEDEXxIGpFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509891757275-cbemprg7f38il2gf60mi1hgikm42nj9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
